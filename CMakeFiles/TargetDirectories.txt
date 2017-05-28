@@ -1,0 +1,2 @@
+C:/Users/abhi2/New folder/PeriodicTaskScheduler/CMakeFiles/edit_cache.dir
+C:/Users/abhi2/New folder/PeriodicTaskScheduler/CMakeFiles/rebuild_cache.dir
