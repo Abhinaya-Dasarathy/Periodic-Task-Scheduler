@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pthread   CMakeFiles/pts.dir/main.cpp.o CMakeFiles/pts.dir/scheduler.cpp.o CMakeFiles/pts.dir/task.cpp.o CMakeFiles/pts.dir/sqlite.cpp.o CMakeFiles/pts.dir/__/tasks/helloWorld.cpp.o CMakeFiles/pts.dir/__/tasks/Memory.cpp.o CMakeFiles/pts.dir/__/tasks/tcp.cpp.o  -o pts -rdynamic -lpthread ../../datastore/sqlite3/libsqlite3.a -ldl 
